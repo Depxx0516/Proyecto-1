@@ -11,3 +11,27 @@ Producto::Producto(const string &nombre, float precio, int cantidad) : nombre(no
     this->precio=precio;
     this->cantidad=cantidad;
 }
+
+const string &Producto::getNombre() const {
+    return nombre;
+}
+
+void Producto::setNombre(const string &nombre) {
+    Producto::nombre = nombre;
+}
+
+float Producto::getPrecio() const {
+    return precio;
+}
+
+void Producto::setPrecio(float precio) {
+    Producto::precio = precio;
+}
+
+int Producto::getCantidad() const {
+    return cantidad;
+}
+
+void Producto::setCantidad(int cantidad) {
+    Producto::cantidad = cantidad;
+}
