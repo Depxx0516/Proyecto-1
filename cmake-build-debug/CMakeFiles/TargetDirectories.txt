@@ -1,0 +1,3 @@
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/cmake-build-debug/CMakeFiles/PROYECTO__1_v1_0.dir
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Articulo.cpp
+Articulo.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Articulo.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Articulo.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Caja.cpp
+Caja.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Caja.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Caja.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Fecha.cpp
+Fecha.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Fecha.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Fecha.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/IAdministrador.cpp
+IAdministrador.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/IAdministrador.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/IAdministrador.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/IVendedor.cpp
+IVendedor.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/IVendedor.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/IVendedor.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Inventario.cpp
+Inventario.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Inventario.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Inventario.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/MenuAdministrador.cpp
+MenuAdministrador.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/MenuAdministrador.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/MenuAdministrador.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/MenuPrincipal.cpp
+MenuPrincipal.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/MenuPrincipal.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/MenuPrincipal.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/MenuVenta.cpp
+MenuVenta.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/MenuVenta.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/MenuVenta.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Producto.cpp
+Producto.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Producto.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Producto.h
+iostream
+-
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Servicio.cpp
+Servicio.h
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Servicio.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/Servicio.h
+
+C:/Users/deivy/Google Drive/DOCUMENTOS U/I CICLO 2021/PROGRAMACION II/PROYECTOS/PROYECTO #1 v1.0/main.cpp
+iostream
+-
+
